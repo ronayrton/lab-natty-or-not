@@ -42,8 +42,11 @@ Utilizei a plataforma Anchor para hospedar e distribuir o podcast. O Anchor é g
 Passos na Publicação:
 
  1.Crie uma conta no Anchor. 
+
  2.Faça o upload do arquivo de áudio. 
+
  3.Preencha os detalhes do episódio, como título e descrição. 
+
  4.Publique o episódio e o Anchor cuidará da distribuição. 
 
 ## 🚀 Resultados
