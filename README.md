@@ -5,8 +5,11 @@ O PodIA é um podcast que explora o mundo das inteligências artificiais de form
 
 ## 🤖 Tecnologias Utilizadas
 -ChatGPT: Utilizado para gerar os roteiros dos episódios.
+
 -IBM Watson Text to Speech: Para converter texto em áudio com vozes naturais.
+
 -Audacity: Software gratuito para edição de áudio.
+
 -Anchor: Plataforma gratuita para hospedar e distribuir o podcast.
 
 ## 🧐 Processo de Criação
@@ -22,8 +25,11 @@ Para transformar o roteiro em áudio, usei o IBM Watson Text to Speech. Escolhi 
 Passos na Geração de Áudio:
 
  1.Acesse IBM Watson Text to Speech.
+
  2.Cole o texto do roteiro.
+
  3.Selecione a voz desejada e clique em “Generate Speech”.
+
  4.Faça o download do arquivo de áudio gerado.
 
 3. Edição e Mixagem:
@@ -32,8 +38,11 @@ Usei o Audacity para editar e mixar os áudios. Este software é gratuito e bast
 Passos na Edição:
 
  1.Importe os áudios gerados para o Audacity.
+
  2.Ajuste o volume e remova pausas ou ruídos indesejados.
+
  3.Adicione uma música de fundo para dar um toque mais profissional. Você pode encontrar músicas livres de direitos autorais em sites como Bensound.
+
  4.Salve o projeto e exporte o áudio final no formato MP3.
  
 4. Publicação e Distribuição:
@@ -51,10 +60,13 @@ Passos na Publicação:
 
 ## 🚀 Resultados
 Episódios Criados:
+
 -Episódio 1: IA na Educação
  -Discussão sobre o impacto das IAs na educação moderna.
+
 -Episódio 2: O Futuro da Automação
  -Exploração de como a IA está mudando o setor industrial.
+
 -Episódio 3: IA no Cotidiano
  -Como a IA está presente em nossas vidas diárias.
 
